@@ -29,11 +29,5 @@ For configuring your git, you need to learn :
 
 Simply typing `git configure user.name/email` will show your asked info. Here is \ is not part of syntax, \ is referred to or.
 
-<<<<<<< HEAD
-<br> 
-In this walkthrough, I am going to guide you 
 
 # Incomplete
-=======
-Simply typing `git configure user.name/email` will show your asked info. Here is \ is not part of syntax, \ is referred to or.
->>>>>>> 282d34fca7dcc36d49cff93ea2aae067112f5290
