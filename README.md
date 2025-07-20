@@ -16,14 +16,17 @@ Git is a free and open-source distributed version control system. It allows deve
 > You can install Git on Microsoft VSCode, Mac, Windows, Linux etc, I do not cover the installation part
 
 ## Git Codes
- In this part of notebook, the real thing is going to start.
-<br>
-**Starting with some basic commands:**<br>
-For configuring your git, you need to learn these
+ In this part of notebook, the real thing is going to start. **Starting with some basic commands:**
+For configuring your git, you need to learn :
 
 > Git Username Definition
 `git configure user.name "YourUsername"`
+<br>
+
 > Git Email Definition
 `git configure user.email "YourEmail"`
+
+<br>
+
 
 Simply typing `git configure user.name/email` will show your asked info. Here is \ is not part of syntax, \ is referred to or.
