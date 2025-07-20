@@ -1,7 +1,7 @@
 # LearnGit
 
 ## I am Shuva Podder, I am a undergraduate student of Khulna University and Technology. It is a notebook to make yourself introduced with GitHub for the first time.
-<br>
+
 > LearnGit is notebook made by me during my learning time and it was also made to make yourself comfortable with GitHub.
 <br>
 
@@ -15,4 +15,15 @@ Git is a free and open-source distributed version control system. It allows deve
 
 > You can install Git on Microsoft VSCode, Mac, Windows, Linux etc, I do not cover the installation part
 
-### Git Codes
+## Git Codes
+ In this part of notebook, the real thing is going to start.
+<br>
+**Starting with some basic commands:**<br>
+For configuring your git, you need to learn these
+
+> Git Username Definition
+`git configure user.name "YourUsername"`
+> Git Email Definition
+`git configure user.email "YourEmail"`
+
+Simply typing `git configure user.name/email` will show your asked info. Here is \ is not part of syntax, \ is referred to or.
