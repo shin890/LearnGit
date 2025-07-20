@@ -1,6 +1,6 @@
 # LearnGit
 
-## I am Shuva Podder, I am a undergraduate student of Khulna University and Technology. It is a notebook to make yourself introduced with GitHub for the first time.
+## I am Shuva Podder, I am a undergraduate student of Khulna University of Engineering and Technology. It is a notebook to make yourself introduced with GitHub for the first time.
 
 > LearnGit is notebook made by me during my learning time and it was also made to make yourself comfortable with GitHub.
 <br>
