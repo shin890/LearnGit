@@ -21,12 +21,15 @@ For configuring your git, you need to learn :
 
 > Git Username Definition
 `git configure user.name "YourUsername"`
-<br>
 
 > Git Email Definition
 `git configure user.email "YourEmail"`
 
 <br>
 
-
 Simply typing `git configure user.name/email` will show your asked info. Here is \ is not part of syntax, \ is referred to or.
+
+<br> 
+In this walkthrough, I am going to guide you 
+
+# Incomplete
